@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "d2d85facd64ed37a2c487045016576c07570990a00ed590fb77af4919aed8416"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "37481fb94ef7cdb7a8ef4ccef57458ab88e83272e31e5db62b619da1fb98b732"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Duckling"
+filename = "duckling-fabric-1.21-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkb861Ih/versions/QrmehOUR/duckling-fabric-1.21-5.0.1.jar"
+hash-format = "sha512"
+hash = "7e59a8205f90d776cd5204b326e84fdc43e5678cbc4624bdf20434586568e9bb571b0582291968c4055d0c47c651c4bc511ced52d564ecaf625e3abcc9726f82"
+
+[update]
+[update.modrinth]
+mod-id = "jkb861Ih"
+version = "QrmehOUR"
