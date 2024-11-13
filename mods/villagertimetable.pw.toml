@@ -1,0 +1,13 @@
+name = "Villager Timetable"
+filename = "villagertimetable-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmQAsW9m/versions/MzbKca0p/villagertimetable-1.0.0.jar"
+hash-format = "sha512"
+hash = "685cf8073bcbdb7cdf0178c1b734d7d1dd72656b890f5f2b14f2d703a466fbdfe76fdd58592392eb9dd313cbb974cba4e4ea3e1997e66d1935aedffbfae0f878"
+
+[update]
+[update.modrinth]
+mod-id = "rmQAsW9m"
+version = "MzbKca0p"

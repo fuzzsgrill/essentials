@@ -1,0 +1,13 @@
+name = "InventoryCleaner"
+filename = "InventoryCleaner-1.0.9-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BK86xBQc/versions/4aPhX3Zh/InventoryCleaner-1.0.9-1.21.jar"
+hash-format = "sha512"
+hash = "ef16c2cb7a058e53e2fad7a1d964a97c82b779bcdbbb693fdaec9cdcfd836e1cfb001fc2ac709ba53a55da9057e0cf18fd2e0d4cb96c8d2ae7aa008b073c237f"
+
+[update]
+[update.modrinth]
+mod-id = "BK86xBQc"
+version = "4aPhX3Zh"
