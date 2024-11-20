@@ -1,0 +1,13 @@
+name = "Helpful Commands"
+filename = "helpfulcommands-3.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIRUH8gT/versions/6tUoU3Ja/helpfulcommands-3.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "36e0926515b9c6327da70e9e99ef3326b3d692ad0a8080d7cceed19b190d97ef26ccbb0983bfcb2517bef28b99264cd8b6c119c3e60b3ef25467cdb34ff56a0f"
+
+[update]
+[update.modrinth]
+mod-id = "lIRUH8gT"
+version = "6tUoU3Ja"

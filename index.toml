@@ -96,6 +96,11 @@ hash = "ae726e8dbffc7aac5d3659833d97a0a95a311f4a590e3916cf8301ea8983baa9"
 metafile = true
 
 [[files]]
+file = "mods/helpfulcommands.pw.toml"
+hash = "f86876cd1692d2da2ee4bc2726cf64393ea5016402b56c1acf7254da68c2418a"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "6b50f30e153beb7dc4877eacf9d13ad3f49c623df3138b6384ac88d7cb0c8482"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ea21b3813c94223714ea5f666815dd14aa0c379a2e70d87571d3b9a2bab26b68"
 metafile = true
 
 [[files]]
